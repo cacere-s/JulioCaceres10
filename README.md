@@ -66,8 +66,6 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169188760-340f7203-4854-41de-9520-0d6b656846aa.png" height="31px"  >
 </a>
-<a href="">
-<img src="https://user-images.githubusercontent.com/66482069/169939008-2a58ff50-4663-4976-8e8e-6fa024cf4ae5.png" height="31px"  >
-</a>
+
 
 
