@@ -61,7 +61,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 
 ### 🛠 IN LEARNING PROCESS
 <a href="">
-<img src="https://user-images.githubusercontent.com/66482069/169188491-264f25f3-4f15-4cfc-8cfd-993885e3d174.png" height="31px"  >
+<img src="https://www.arsys.es/blog/file/uploads/2020/04/01-vuejs.jpg" height="60px"  >
 </a>
 
 
