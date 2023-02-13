@@ -1,4 +1,4 @@
-<a href="url"><img src="https://user-images.githubusercontent.com/66482069/168949149-e1902e7f-9da8-42e6-bfe2-0513a522246e.png" height="400" width="1020px" max-width="100%" ></a>
+<a href="url"><img src="https://enclaveinformatico.com/wp-content/uploads/2020/05/Portada.jpeg" height="400" width="1020px" max-width="100%" ></a>
 
 <p><b>Soy desarrollador web full-stack de Colombia..</b></p>
 Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simples y hermosos. También me encanta la lógica y la estructura de la codificación y siempre me esfuerzo por lograr un código elegante y eficiente, ya sea HTML, CSS o JavaScript.
