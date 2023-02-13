@@ -1,20 +1,17 @@
 <a href="url"><img src="https://user-images.githubusercontent.com/66482069/168949149-e1902e7f-9da8-42e6-bfe2-0513a522246e.png" height="400" width="1020px" max-width="100%" ></a>
 
-<p><b>I am Full-stack web developer from Colombia.</b></p>
-I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love logic and structure of coding and alway strive to white elegant and efficient code, weather it be HTML, CSS, or JavaScript.
+<p><b>Soy desarrollador web full-stack de Colombia..</b></p>
+Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simples y hermosos. También me encanta la lógica y la estructura de la codificación y siempre me esfuerzo por lograr un código elegante y eficiente, ya sea HTML, CSS o JavaScript.
 
-### 🌏 CONNECT WITH ME
+### 🌏 CONECTATE CONMIGO
 <a href="https://www.instagram.com/juliocaceres___/">
 <img src="https://user-images.githubusercontent.com/66482069/168952084-cc641a96-4bec-40c6-9bcc-7b4ac2ee8630.png" height="60px"  >
 </a>
 <a href="https://www.linkedin.com/in/julio-cesar-roma%C3%B1a-caceres-2040aa19a/">
 <img src="https://user-images.githubusercontent.com/66482069/168952339-f01ffb1b-897e-4103-8688-43fc29fa90d7.png" height="60px"  >
 </a>
-<a href="https://replit.com/@juliocaceres">
-<img src="https://user-images.githubusercontent.com/66482069/168959716-e3a24887-b124-4601-ad4c-a0dd48e581e1.png" height="60px"  >
-</a>
 
-### 🕸️ WEB DEV
+### 🕸️ DESARROLLADOR WEB
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169156882-5cded18a-532e-4a4d-ab45-72a59810bd74.png" height="60px"  >
 </a>
@@ -31,7 +28,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <img src="https://user-images.githubusercontent.com/66482069/169159163-b1b4afd6-6e77-4864-a764-1f15a122031c.png" height="60px"  >
 </a>
 
-### ⚙️ BACKEND DEV
+### ⚙️ DESARROLLO DE BACKEND
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169159284-07772f32-d8a2-4157-9cdd-44737f2b20ea.png" height="60px"  >
 </a>
@@ -39,12 +36,12 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 <img src="https://user-images.githubusercontent.com/66482069/169185105-0259c720-3216-4af8-9908-df7f5c9214c9.png" height="60px"  >
 </a>
 
-### 📅 DATABASES
+### 📅 BASES DE DATOS
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169185752-37b6c897-9145-42cb-ba93-b31eeb97b1b4.png" height="60px"  >
 </a>
 
-### ☃️ MY LEARNING RESOURCES
+### ☃️ MIS RECURSOS DE APRENDIZAJE
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169186312-c806ad09-6e09-4024-963c-9cb8bf1ed963.png" height="30px"  >
 </a>
@@ -59,7 +56,7 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 </a>
 
 
-### 🛠 IN LEARNING PROCESS
+### 🛠 EN PROCESO DE APRENDIZAJE
 <a href="">
 <img src="https://www.arsys.es/blog/file/uploads/2020/04/01-vuejs.jpg" height="60px"  >
 </a>
