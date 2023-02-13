@@ -1,9 +1,10 @@
-<a href="url"><img src="https://enclaveinformatico.com/wp-content/uploads/2020/05/Portada.jpeg" height="400" width="1020px" max-width="100%" ></a>
 
-<p><b>Soy desarrollador web full-stack de Colombia..</b></p>
+<a href="url"><img src="https://enclaveinformatico.com/wp-content/uploads/2020/05/Portada.jpeg" height="400" width="1020px" max-width="100%" ></a>
+# <p><b>Hola!👋, Soy Julio Caceres.</b></p>
+### <p><b>Soy desarrollador web full-stack de Colombia.</b></p>
 Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simples y hermosos. También me encanta la lógica y la estructura de la codificación y siempre me esfuerzo por lograr un código elegante y eficiente, ya sea HTML, CSS o JavaScript.
 
-### 🌏 CONECTATE CONMIGO
+##### 🌏 CONECTATE CONMIGO
 <a href="https://www.instagram.com/juliocaceres___/">
 <img src="https://user-images.githubusercontent.com/66482069/168952084-cc641a96-4bec-40c6-9bcc-7b4ac2ee8630.png" height="60px"  >
 </a>
@@ -11,7 +12,7 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 <img src="https://user-images.githubusercontent.com/66482069/168952339-f01ffb1b-897e-4103-8688-43fc29fa90d7.png" height="60px"  >
 </a>
 
-### 🕸️ DESARROLLADOR WEB
+##### 🕸️ DESARROLLADOR WEB
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169156882-5cded18a-532e-4a4d-ab45-72a59810bd74.png" height="60px"  >
 </a>
@@ -28,7 +29,7 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 <img src="https://user-images.githubusercontent.com/66482069/169159163-b1b4afd6-6e77-4864-a764-1f15a122031c.png" height="60px"  >
 </a>
 
-### ⚙️ DESARROLLO DE BACKEND
+##### ⚙️ DESARROLLO DE BACKEND
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169159284-07772f32-d8a2-4157-9cdd-44737f2b20ea.png" height="60px"  >
 </a>
@@ -36,12 +37,12 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 <img src="https://user-images.githubusercontent.com/66482069/169185105-0259c720-3216-4af8-9908-df7f5c9214c9.png" height="60px"  >
 </a>
 
-### 📅 BASES DE DATOS
+##### 📅 BASES DE DATOS
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169185752-37b6c897-9145-42cb-ba93-b31eeb97b1b4.png" height="60px"  >
 </a>
 
-### ☃️ MIS RECURSOS DE APRENDIZAJE
+##### ☃️ MIS RECURSOS DE APRENDIZAJE
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169186312-c806ad09-6e09-4024-963c-9cb8bf1ed963.png" height="30px"  >
 </a>
@@ -56,7 +57,7 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 </a>
 
 
-### 🛠 EN PROCESO DE APRENDIZAJE
+##### 🛠 EN PROCESO DE APRENDIZAJE
 <a href="">
 <img src="https://www.arsys.es/blog/file/uploads/2020/04/01-vuejs.jpg" height="60px"  >
 </a>
