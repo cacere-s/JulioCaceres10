@@ -28,6 +28,9 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169159163-b1b4afd6-6e77-4864-a764-1f15a122031c.png" height="60px"  >
 </a>
+<a href="">
+<img src="https://www.arsys.es/blog/file/uploads/2020/04/01-vuejs.jpg" height="60px"  >
+</a>
 
 ##### ⚙️ DESARROLLO DE BACKEND
 <a href="">
@@ -59,7 +62,7 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 
 ##### 🛠 EN PROCESO DE APRENDIZAJE
 <a href="">
-<img src="https://www.arsys.es/blog/file/uploads/2020/04/01-vuejs.jpg" height="60px"  >
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.png" height="60px"  >
 </a>
 
 
