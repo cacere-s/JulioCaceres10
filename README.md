@@ -45,6 +45,7 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 <img src="https://user-images.githubusercontent.com/66482069/169185752-37b6c897-9145-42cb-ba93-b31eeb97b1b4.png" height="60px"  >
 </a>
 
+
 ##### ☃️ MIS RECURSOS DE APRENDIZAJE
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169186312-c806ad09-6e09-4024-963c-9cb8bf1ed963.png" height="30px"  >
@@ -57,6 +58,9 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 </a>
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169186574-7596b10f-d037-4311-b9a7-152ea3e79f52.png" height="30px"  >
+</a>
+<a href="">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg" height="30px"  >
 </a>
 
 
