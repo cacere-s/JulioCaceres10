@@ -63,9 +63,7 @@ Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simp
 <a href="">
 <img src="https://user-images.githubusercontent.com/66482069/169186574-7596b10f-d037-4311-b9a7-152ea3e79f52.png" height="30px"  >
 </a>
-<a href="">
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg" height="30px"  >
-</a>
+
 
 
 ##### 🛠 EN PROCESO DE APRENDIZAJE
